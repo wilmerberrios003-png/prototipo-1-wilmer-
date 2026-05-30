@@ -1,3 +1,7 @@
 # prototipo-1-wilmer-
 tarea
-Hola este es mi primer GitHub estpy aprendiendo 
+<html lang="es">
+</head>
+<meta charset="UTF-8">
+</title>aporte de wilmer</title>
+</head>
